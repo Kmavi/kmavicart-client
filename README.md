@@ -29,7 +29,7 @@ for users
 1. Clone the repository
 
 ```bash
-git clone https://github.com/kijuchihe/kmavicart-client.git
+git clone https://github.com/Kmavi/kmavicart-client.git
 ```
 
 2. Install the dependencies
